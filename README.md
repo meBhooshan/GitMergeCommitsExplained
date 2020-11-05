@@ -1,9 +1,9 @@
-# Git and GitHub Learnings.
+# Git and Github Learnings.
 
 - Introduction to Version Control System and it's concepts.
 - Couple of Basic Git Commands.
 - Git Workflow.
-- Different types of merging code in GitHub namely:
+- Different types of merge methods in Github namely:
   - Merge Commit
   - Rebase and Merge
   - Squash and Merge
